@@ -27,4 +27,4 @@ flutter:
         package: com.zaihui.installplugin
         pluginClass: InstallPlugin
       ios:
-        pluginClass: InstallPlugin
+        pluginClass: SwiftInstallPlugin
